@@ -31,7 +31,7 @@ class HomeScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Bienvenue !',
+              'Bienvenue Mc !',
               style: TextStyle(fontSize: 24),
             ),
             SizedBox(height: 20),
